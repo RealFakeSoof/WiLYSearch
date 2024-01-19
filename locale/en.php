@@ -1,9 +1,9 @@
 <?php
 
 return array(
-    "page_title" => "LibreY search",
-    "search_button" => "Search with LibreY",
-    "torrent_search_button" => "Search torrents with LibreY",
+    "page_title" => "WiLYsearch",
+    "search_button" => "Search with WiLYSearch",
+    "torrent_search_button" => "Search torrents with WiLYSearch",
 
     "source_code_link" => "Source",
     "instances_link" => "Instances",
