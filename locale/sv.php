@@ -1,9 +1,9 @@
 <?php
 
 return array(
-    "page_title" => "LibreY search",
-    "search_button" => "Sök med LibreY",
-    "torrent_search_button" => "Sök torrents med LibreY",
+    "page_title" => "WiLYSearch",
+    "search_button" => "Sök med WiLYSearch",
+    "torrent_search_button" => "Sök torrents med WiLYSearch",
 
     "source_code_link" => "Källkod",
     "instances_link" => "Instanser",
