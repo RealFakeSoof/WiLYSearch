@@ -1,7 +1,7 @@
 <?php
 
 return array(
-    "page_title" => "WiLYsearch",
+    "page_title" => "WiLYSearch",
     "search_button" => "Search with WiLYSearch",
     "torrent_search_button" => "Search torrents with WiLYSearch",
 
