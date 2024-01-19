@@ -1,9 +1,9 @@
 <?php
 
 return array(
-    "page_title" => "LibreY search",
-    "search_button" => "Zoek met LibreY",
-    "torrent_search_button" => "Zoek naar torrents met LibreY",
+    "page_title" => "WiLYSearch",
+    "search_button" => "Zoek met WiLYSearch",
+    "torrent_search_button" => "Zoek naar torrents met WiLYSearch",
 
     "source_code_link" => "Broncode",
     "instances_link" => "Instances",
