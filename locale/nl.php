@@ -48,7 +48,7 @@ return array(
     "instances_librex" => "De volgende instances draaien de oudere versie; %s",
 
     "donate_original_developer" => "Doneer aan de originele ontwikkelaar van %s, een project dat LibreY probeert te verbeteren.",
-    "donate_fork" => "Doneer aan de persoon die %s heeft geforkt naar LibreY",
+    "donate_fork" => "Doneer aan de persoon die %s heeft geforkt naar WiLYSearch",
 
     "api_unavailable" => "De LibreY API is op dit moment niet beschikbaar"
 );
