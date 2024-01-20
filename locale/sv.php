@@ -50,7 +50,7 @@ return array(
 
     "donate_original_developer" => "Donera till orginalutvecklaren av %s, ett
         projekt som LibreY försöker förbättra.",
-    "donate_fork" => "Donera till personen som forkade %s till LibreY",
+    "donate_fork" => "Donera till personen som forkade %s till WiLYSearch",
 
     "api_unavailable" => "Denna LibreY API är för närvarande otillgänglig."
 );
