@@ -2,7 +2,7 @@
 
 [![Docker Image CI](https://github.com/Ahwxorg/LibreY/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Ahwxorg/LibreY/actions/workflows/docker-image.yml)
 
-> WiLYSearch is a fork of LibreY, which is a fork of LibreX, a framework-less and javascript-free privacy respecting meta search engine, made by [hnhx](https://github.com/hnhx). LibreY changed some features like automatic redirection. The original code is written by [hnhx and contributors](https://github.com/hnhx/LibreX/contributors)
+> WiLYSearch is a fork of LibreY, which is a fork of LibreX, a framework-less and javascript-free privacy respecting meta search engine, made by [hnhx](https://github.com/hnhx). LibreY changed some features like automatic redirection, which is carried over in this. The original code is written by [hnhx and contributors](https://github.com/hnhx/LibreX/contributors)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49120638/215327189-76c54dec-8b19-4faf-8c39-29a61aa3b143.png" width="400">
@@ -42,10 +42,10 @@ Support the community. ❤️<br><br>
 <br>
 
 
-### About LibreY
+### About WiLYSearch
 
-LibreY gives you text results from Google, DuckDuckGo, Brave Search, Ecosia, Yandex Search and Mojeek. LibreY provides images from Qwant, and torrents from i.e. Ahmia and popular torrent sites. LibreY does this without spying on you.
-<br>LibreY doesn't save **any** type of data about the user, there are no logs (except NGINX logs if the host sets them).
+WiLYSearch gives you text results from Google, DuckDuckGo, Brave Search, Ecosia, Yandex Search and Mojeek. WiLYSearch provides images from Qwant, and torrents from i.e. Ahmia and popular torrent sites. WiLYSearch does this without spying on you.
+<br>WiLYSearch doesn't save **any** type of data about the user, there are no logs (except NGINX logs if the host sets them).
 
 ### LibreY compared to other metasearch engines
 
