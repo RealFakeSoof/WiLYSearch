@@ -48,7 +48,7 @@
                     <option value=\"amoled\">AMOLED</option>
                     <option value=\"light\">Light</option>
                     <option value=\"auto\">Auto</option>
-					<option value=\"dracula\">Dracula</option>
+		    <option value=\"dracula\">Dracula</option>
                     <option value=\"nord\">Nord</option>
                     <option value=\"night_owl\">Night Owl</option>
                     <option value=\"discord\">Discord</option>
@@ -56,6 +56,7 @@
                     <option value=\"startpage\">Startpage Dark</option>
                     <option value=\"gruvbox\">Gruvbox</option>
                     <option value=\"github_night\">GitHub Night</option>
+		    <option value=\"WiLYStyle\">WiLYStyle</option>
                     <option value=\"catppuccin\">Catppucin</option>
                     <option value=\"ubuntu\">Ubuntu</option>
                     <option value=\"tokyo_night\">Tokyo night</option>";
