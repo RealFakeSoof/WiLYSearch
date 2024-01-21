@@ -6,12 +6,12 @@ ADD "." "."
 
 # Docker metadata contains information about the maintainer, such as the name, repository, and support email
 # See more: https://docs.docker.com/config/labels-custom-metadata/
-LABEL name="LibreY" \
+LABEL name="WiLYSearch" \
       description="Framework and javascript free privacy respecting meta search engine" \
       version="1.0" \
       vendor="Ahwx <ahwx.org>" \
       maintainer="Ahwx <ahwx.org>" \
-      url="https://github.com/Ahwxorg/LibreY" \
+      url="https://github.com/RealFakeSoof/WiLYSearch" \
       authors="https://github.com/Ahwxorg/LibreY/contributors"
 
 # Include arguments as temporary environment variables to be handled by Docker during the image build process
