@@ -13,12 +13,12 @@ return array(
 
     "latest_commit" => "Latest commit: %s",
 
-    "category_general" => "General",
-    "category_images" => "Images",
-    "category_videos" => "Videos",
-    "category_torrents" => "Torrents",
-    "category_tor" => "Tor",
-    "category_maps" => "Maps",
+    // "category_general" => "General",
+    // "category_images" => "Images",
+    // "category_videos" => "Videos",
+    // "category_torrents" => "Torrents",
+    // "category_tor" => "Tor",
+    // "category_maps" => "Maps",
 
     "feature_disabled" => "The host has disabled this feature :C",
 
