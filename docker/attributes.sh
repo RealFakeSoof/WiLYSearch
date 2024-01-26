@@ -11,10 +11,10 @@ export CONFIG_NGINX_TEMPLATE="/etc/nginx/http.d/librey.conf"
 
 # Configure 'opensearch.xml' with librey configuration metadata, such as the encoding and the host that stores the site
 # These configurations will replace the 'opensearch.xml' inside '.dockers/templates' for the best setup for your instance
-export OPEN_SEARCH_TITLE=${OPEN_SEARCH_TITLE:-"LibreY"}
+export OPEN_SEARCH_TITLE=${OPEN_SEARCH_TITLE:-"WiLYSearch"}
 export OPEN_SEARCH_DESCRIPTION=${OPEN_SEARCH_DESCRIPTION:-"Framework and javascript free privacy respecting meta search engine"}
 export OPEN_SEARCH_ENCODING=${OPEN_SEARCH_ENCODING:-"UTF-8"}
-export OPEN_SEARCH_LONG_NAME=${OPEN_SEARCH_LONG_NAME:-"LibreY Search"}
+export OPEN_SEARCH_LONG_NAME=${OPEN_SEARCH_LONG_NAME:-"WiLYSearch"}
 export OPEN_SEARCH_HOST=${OPEN_SEARCH_HOST:-"127.0.0.1"}
 
 # Replace the 'config.php' script, which contains the most common search engine configurations, with these environment setups
