@@ -33,7 +33,7 @@
 </head>
     <body>
         <form class="sub-search-container" method="get" autocomplete="off">
-            <h1 class="logomobile"><a class="no-decoration" href="./"><span class="Y">W</span>S</a></h1>
+            <h1 class="logomobile"><a class="no-decoration" href="./"><span class="Y">WiLY</span></a></h1>
             <input type="text" name="q"
                 <?php
                     if (1 > strlen($opts->query) || strlen($opts->query) > 256)
