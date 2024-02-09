@@ -41,11 +41,11 @@ Support the community. ❤️<br><br>
 [I2P](http://revekebotog64xrrammtsmjwtwlg3vqyzwdurzt2pu6botg4bejq.b32.i2p/instances.php)<br>
 <br>
 
-### How to host LibreY
+### How to host WiLYSearch
 
-To host LibreY using Docker, you can follow the instructions in the [Docker directory](https://github.com/Ahwxorg/LibreY/tree/main/docker).
+To host WiLYSearch using Docker, you can follow the instructions in the [Docker directory](https://github.com/Ahwxorg/LibreY/tree/main/docker).
 
-To host LibreY using your OS's native package manager and PHP+NGINX, you can use the following steps as a guide.
+To host WiLYSearch using your OS's native package manager and PHP+NGINX, you can use the following steps as a guide.
 
 These instructions are specific to Debian GNU/Linux but should be similar on most *nix variants (differences may include commands for package management, init system, php-fpm.sock location and availability of fastcgi-php.conf)
 
@@ -60,7 +60,7 @@ Install the packages (Arch Linux):
 sudo pacman -S php php-fpm php-apcu nginx git
 ```
 
-Clone LibreY:
+Clone WiLYSearch:
 
 ```sh
 mkdir -p /var/www/html
@@ -126,8 +126,9 @@ WiLYSearch gives you text results from Google, DuckDuckGo, Brave Search, Ecosia,
 
 ### LibreY compared to other metasearch engines
 
-| Name    | Works without JS     | Privacy frontend redirect | Torrent results | API | No 3rd party libs used |
-| ------- | -------------------- | ------------------------- | --------------- | --- | ---------------------- |
-| LibreY  | ✅                   | ✅                        | ✅              | ✅  | ✅                     |
-| SearXNG | ❓ Not user friendly | ❓ Only host can set it   | ✅              | ✅  | ❌                     |
-| Whoogle | ✅                   | ❓ Only host can set it   | ❌              | ❌  | ❌                     |
+| Name    | Works without JS     | Privacy frontend redirect | Torrent results | API | No 3rd party libs used | Moar salmon pink |
+| ------- | -------------------- | ------------------------- | --------------- | --- | ---------------------- | ---------------- |
+| WiLY    | ✅                   | ✅                        | ✅              | ✅  | ✅                    | ✅               |
+| LibreY  | ✅                   | ✅                        | ✅              | ✅  | ✅                    | ❌               |
+| SearXNG | ❓ Not user friendly | ❓ Only host can set it   | ✅              | ✅  | ❌                    | ❌               |
+| Whoogle | ✅                   | ❓ Only host can set it   | ❌              | ❌  | ❌                    | ❌               |
