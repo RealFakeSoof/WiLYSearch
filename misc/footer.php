@@ -6,14 +6,14 @@
     <a href="./api.php" target="_blank"><?php printtext("api_link");?></a>
     <a href="./donate.php"><?php printtext("donate_link");?></a>
 </div>
-<div class="git-container">
+<!-- <div class="git-container">
     <?php
         if (file_exists(".git/refs/heads/main")) {
           $hash = file_get_contents(".git/refs/heads/main");
         }
 
-        echo "<a href='https://github.com/RealFakeSoof/WiLYSearch/commit/$hash' target='_blank'>" . printftext("", $hash) . "</a>";
+        echo "<a href='https://github.com/RealFakeSoof/WiLYSearch/commit/$hash' target='_blank'>" . printftext("comm", $hash) . "</a>";
     ?>
-</div>
+</div> -->
 </body>
 </html>
