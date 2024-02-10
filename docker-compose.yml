@@ -2,7 +2,7 @@ version: "3"
 services:
   librey:
     build: .
-    container_name: librey
+    container_name: wilysearch
     network_mode: bridge
     ports:
       - 8080:8080
