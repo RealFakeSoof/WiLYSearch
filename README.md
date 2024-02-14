@@ -19,7 +19,7 @@ If there's an important announcement, we do have a Matrix chatroom which you can
 
 ### Instances
 
-You can find a list of instances on any LibreY instance by accessing /instances.php.<br>
+WiLYSearch doesn't have any public instances, but you can find a list of instances on any LibreY instance by accessing /instances.php.<br>
 Alternatively look at `instances.json` where the list is generated from.<br><br>
 While the official instances may be more updated and have better uptime, please consider using another person's instances as these are heavily overloaded.<br>
 Support the community. ❤️<br><br>
@@ -117,14 +117,14 @@ Start php-fpm and nginx immediately and on every boot:
 sudo systemctl enable --now php-fpm nginx
 ```
 
-Now LibreY should be running at the port you specified!
+Now WiLYSearch should be running at the port you specified!
 
 ### About WiLYSearch
 
 WiLYSearch gives you text results from Google, DuckDuckGo, Brave Search, Ecosia, Yandex Search and Mojeek. WiLYSearch provides images from Qwant, and torrents from i.e. Ahmia and popular torrent sites. WiLYSearch does this without spying on you.
 <br>WiLYSearch doesn't save **any** type of data about the user, there are no logs (except NGINX logs if the host sets them).
 
-### LibreY compared to other metasearch engines
+### WiLYSearch compared to other metasearch engines
 
 | Name    | Works without JS     | Privacy frontend redirect | Torrent results | API | No 3rd party libs used | Moar salmon pink |
 | ------- | -------------------- | ------------------------- | --------------- | --- | ---------------------- | ---------------- |
