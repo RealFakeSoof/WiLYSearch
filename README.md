@@ -126,9 +126,9 @@ WiLYSearch gives you text results from Google, DuckDuckGo, Brave Search, Ecosia,
 
 ### WiLYSearch compared to other metasearch engines
 
-| Name    | Works without JS     | Privacy frontend redirect | Torrent results | API | No 3rd party libs used | Moar salmon pink |
-| ------- | -------------------- | ------------------------- | --------------- | --- | ---------------------- | ---------------- |
-| WiLY    | ✅                   | ✅                        | ✅              | ✅  | ✅                    | ✅               |
-| LibreY  | ✅                   | ✅                        | ✅              | ✅  | ✅                    | ❌               |
-| SearXNG | ❓ Not user friendly | ❓ Only host can set it   | ✅              | ✅  | ❌                    | ❌               |
-| Whoogle | ✅                   | ❓ Only host can set it   | ❌              | ❌  | ❌                    | ❌               |
+| Name    | Works without JS     | Privacy frontend redirect | Torrent results | API | No 3rd party libs used | Moar salmon pink | Better |
+| ------- | -------------------- | ------------------------- | --------------- | --- | ---------------------- | ---------------- | ------- |
+| WiLY    | ✅                   | ✅                        | ✅              | ✅  | ✅                    | ✅               |✅ |
+| LibreY  | ✅                   | ✅                        | ✅              | ✅  | ✅                    | ❌               |❌ |
+| SearXNG | ❓ Not user friendly | ❓ Only host can set it   | ✅              | ✅  | ❌                    | ❌               |❌ |
+| Whoogle | ✅                   | ❓ Only host can set it   | ❌              | ❌  | ❌                    | ❌               |❌ |
